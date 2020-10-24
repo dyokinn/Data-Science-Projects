@@ -1,6 +1,6 @@
 # Analisando o cenário competitivo de E-Sports com técnicas de data science e machine learning
 
-Link: [FSI_ML.ipynb](/FSI_ML.ipynb)
+Link: [FSI.ipynb](/FSI.ipynb)
 
 <img src = "https://user-images.githubusercontent.com/68029637/97033725-2bad5b80-153a-11eb-9956-a980a11e835b.png" width = "800" height = "400">
 <img src = "https://user-images.githubusercontent.com/68029637/97033779-3f58c200-153a-11eb-8120-fbf9f477269e.png" width = "800" height = "400">
