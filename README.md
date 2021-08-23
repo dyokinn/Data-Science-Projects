@@ -1,6 +1,5 @@
 # Projetos:
 - [LoL no cenário competitivo](/LoL-Competitive-Scenario/LoL-Competitive-Analysis.ipynb)
-- BlaBla
 
 ## Primeiro projeto: Análise competitiva do cenário de eSports
 Este projeto foi desenvolvido por mim e pelo João (GitHub: JhonesBR) como avaliação na universidade. Seu objetivo principal era a introdução às técnicas de data science e machine learning, além de instigar o aluno a desenvolver a capacidade de gerar, polir e testar insights sobre temas diversos. Ademais, também aprendemos a trabalhar em grupo e coordenar projetos, uma vez que os trabalhos possuíam prazos sequenciais que requeriam organização e planejamento por parte da equipe.
